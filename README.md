@@ -1,4 +1,6 @@
-![Kallen](KallenGif.gif)
+<div align="center">
+  <img src="ReiRed.gif" alt="Kallen" />
+</div>
 
 <div align="center">
   <a href="https://returnreturnreturnreturnreturnreturnreturn.vercel.app/personal">
