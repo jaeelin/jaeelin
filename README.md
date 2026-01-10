@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="ReiRed.gif" alt="Kallen" />
+  <img src="ReiBlue.gif" alt="Rei" />
 </div>
 
 <div align="center">
